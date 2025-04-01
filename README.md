@@ -2,9 +2,13 @@ Project Overview:
 
 This project focuses on data analytics for the Fantasy Premier League (FPL) 24/25 season, with detailed insights generated up to week 29.
 
+
+
 Data Acquisition and Preparation:
 
 The dataset is sourced directly from the official FPL API via "https://fantasy.premierleague.com/api/bootstrap-static/". which provides player and team statistics necessary for in-depth analysis.
+
+
 
 Data Cleaning and Transformation:
 
@@ -16,7 +20,11 @@ To ensure the dataset is both relevant and accurate, the following cleaning step
 5.Metric Calculation: Introduced a performance metric, 'ppm' (points per million), calculated by dividing total points by the player's cost. This metric is instrumental in 
   identifying high-value players. 
 
+
+
 Data Structuring: 
 The dataset is sorted in descending order based on the 'ppm' metric, highlighting the most efficient players. Additionally, key columns were reordered and put at the beginning of the csv file, then Two empty columns were inserted as a visual separator between the primary columns used and the remaining columns, ensuring clarity and ease of navigation. 
+
+
 
 Exporting the Dataset: Once cleaned and organized, the dataset is exported as a CSV file with UTF-8 encoding. This format ensures compatibility and ease of use for subsequent data analysis tasks.
