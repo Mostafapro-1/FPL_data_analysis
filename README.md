@@ -1,10 +1,13 @@
 Project Overview:
+
 This project focuses on data analytics for the Fantasy Premier League (FPL) 24/25 season, with detailed insights generated up to week 29.
 
 Data Acquisition and Preparation:
+
 The dataset is sourced directly from the official FPL API via "https://fantasy.premierleague.com/api/bootstrap-static/". which provides player and team statistics necessary for in-depth analysis.
 
 Data Cleaning and Transformation:
+
 To ensure the dataset is both relevant and accurate, the following cleaning steps were implemented: 
 1.Filtering: Excluded managers from the dataset to focus solely on player data. 
 2.Mapping: Created mappings to convert team IDs into team names and to translate numerical position codes into standard abbreviations (e.g., GK, DEF, MID, FWD). 
