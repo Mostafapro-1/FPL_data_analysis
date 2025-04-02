@@ -13,9 +13,13 @@ The dataset is sourced directly from the official FPL API via "https://fantasy.p
 Data Cleaning and Transformation:
 
 To ensure the dataset is both relevant and accurate, the following cleaning steps were implemented: 
+
 1.Filtering: Excluded managers from the dataset to focus solely on player data. 
+
 2.Mapping: Created mappings to convert team IDs into team names and to translate numerical position codes into standard abbreviations (e.g., GK, DEF, MID, FWD). 
+
 3.Conditional Adjustments: Set the values for 'Clean Sheets' and 'Goals Conceded' to zero for positions where these statistics are not applicable. 
+
 4.Feature Engineering: Constructed a new 'full name' column by combining the players' first and second names, enhancing data readability. 
 
 
