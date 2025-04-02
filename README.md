@@ -52,8 +52,6 @@ Python | Streamlit | Plotly
 
 AI-Assisted Development | Data Storytelling
 
-▪️Proud Moment:
-Delivering a polished tool despite starting with limited coding experience – proof that curiosity + AI collaboration can unlock rapid growth!
 
 ▪️Looking Ahead:
 I’m eager to bring this same analytical rigor to the sports analytics field, whether it’s optimizing team strategies, scouting talent, or enhancing fan engagement.
