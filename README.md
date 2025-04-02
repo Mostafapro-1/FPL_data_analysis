@@ -30,27 +30,30 @@ Exporting the Dataset: Once cleaned and organized, the dataset is exported as a 
 then,I collaborated with AI tools like ChatGPT/Deepseek to bridge my sports passion with technical execution. Here’s how I did it:
 
 Key Features:
-✅ Points per Million (PPM) Analysis: Identified cost-effective players using Python (Pandas/NumPy).
-✅ Interactive Dashboards: Streamlit tables and Plotly charts to explore performance metrics.
-✅ AI-Augmented Development: Guided ChatGPT with targeted prompts to generate, test, and refine code iteratively.
+
+ Points per Million (PPM) Analysis: Identified cost-effective players using Python (Pandas/NumPy).
+
+ Interactive Dashboards: Streamlit tables and Plotly charts to explore performance metrics.
+
+ AI-Augmented Development: Guided ChatGPT with targeted prompts to generate, test, and refine code iteratively.
 
 My Process:
-1️⃣ Problem Decomposition: Broke down goals into technical tasks (e.g., “How to filter players by position in Streamlit?”).
-2️⃣ AI Collaboration: Used ChatGPT to draft code snippets, then validated and debugged outputs.
-3️⃣ Iterative Refinement: Tweaked prompts to optimize visuals (e.g., adjusting Plotly bubble charts for clarity).
-4️⃣ Ownership: Every line of code was reviewed, tested, and adapted to fit the project’s needs.
+
+ Problem Decomposition: Broke down goals into technical tasks (e.g., “How to filter players by position in Streamlit?”).
+
+ AI Collaboration: Used ChatGPT to draft code snippets, then validated and debugged outputs.
+
+ Iterative Refinement: Tweaked prompts to optimize visuals (e.g., adjusting Plotly bubble charts for clarity).
+
+ Ownership: Every line of code was reviewed, tested, and adapted to fit the project’s needs.
+
+
 
 Tech Stack:
 
 Python | Streamlit | Plotly
 
 AI-Assisted Development | Data Storytelling
-
-
-This project taught me how to leverage AI as a collaborative tool while maintaining critical oversight. For example:
-✅ Translated my vision for risk/reward player tables into functional Streamlit code.
-✅ Debugged DataFrame issues by asking ChatGPT targeted follow-up questions.
-✅ Improved dashboard UX through iterative prompt refinements (e.g., “Add a progress bar for minutes played”).
 
 Proud Moment:
 Delivering a polished tool despite starting with limited coding experience – proof that curiosity + AI collaboration can unlock rapid growth!
